@@ -15,6 +15,14 @@ Built with **Clean Architecture**, **Cubit (`flutter_bloc`)**, and **Hive NoSQL*
 
 ---
 
+## 📸 App Screenshots
+
+| Dashboard (Light Mode) | Add Expense Form | Dashboard (Dark Mode) |
+| :---: | :---: | :---: |
+| <img src="screenshots/dashboard_light.png" width="270" alt="Dashboard Light Mode" /> | <img src="screenshots/add_expense_modal.png" width="270" alt="Add Expense Modal Bottom Sheet" /> | <img src="screenshots/dashboard_dark.png" width="270" alt="Dashboard Dark Mode" /> |
+
+---
+
 ## Key Features
 
 * **Offline-First NoSQL Persistence (Hive)**:
